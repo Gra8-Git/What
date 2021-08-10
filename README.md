@@ -3,7 +3,7 @@ SERVICE_PART_TEST
 command line : start / stop / install / uninstall for both services
 
 bcdedit /set testsigning on for not signed files ;))))
-
+reboot
 MD5 hash of event.dll: clear 027e22a43e3b8198250a0fef18468fb7
 
 MD5 hash of KMDFpc3.sys: clear 3cd2bf080a47584ce18a387fa631214e
