@@ -1,4 +1,5 @@
 SERVICE_PART_TEST
+working withVisual Studio libs only not standaloneapp
 
 command line : start / stop / install / uninstall for both services
 
